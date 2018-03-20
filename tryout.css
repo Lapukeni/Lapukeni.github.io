@@ -1,0 +1,12 @@
+body{
+  background-image: url(cm2.gif);
+
+}
+#p1{
+  text-align: center;
+}
+center{
+  width: 40px;
+  padding: 40px;
+  margin:auto;
+}
