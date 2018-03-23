@@ -1,12 +1,16 @@
 body{
-  background-image: url(cm2.gif);
+  background-image: url(pio2.jpg);
 
 }
-#p1{
-  text-align: center;
+h1{
+  font-weight: 25%;
 }
-center{
-  width: 40px;
-  padding: 40px;
+.center{
+  width: 450px;
+  padding: 20px;
+  text-align: center;
   margin:auto;
+  margin-top: 15%;
+  color:green;
+  font-family: cursive;
 }
